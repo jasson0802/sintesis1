@@ -291,7 +291,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel9">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Synt 1"/>
+            <Property name="text" type="java.lang.String" value="Synt 3"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JSlider" name="jSlider5">

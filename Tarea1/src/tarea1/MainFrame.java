@@ -167,7 +167,7 @@ public class MainFrame extends javax.swing.JFrame {
 
         jLabel11.setText("Volumen");
 
-        jLabel9.setText("Synt 1");
+        jLabel9.setText("Synt 3");
 
         jLabel12.setText("Velocidad");
 
